@@ -7,3 +7,9 @@ x64/
 Release/
 Debug/
 build/
+bLibs/*
+main
+main.o
+main.cpp.sha1
+logs/*
+bLibs/RandomX
